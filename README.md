@@ -27,5 +27,4 @@ RadarKorva korzysta wyłącznie z oficjalnych API platform marketplace i wysyła
 
 Planowany User-Agent:
 
-```text
 RadarKorva/0.1 (+https://krzysztofbaj-bot.github.io/radarkorva-info/)
