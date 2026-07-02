@@ -28,3 +28,6 @@ RadarKorva korzysta wyłącznie z oficjalnych API platform marketplace i wysyła
 Planowany User-Agent:
 
 RadarKorva/0.1 (+https://krzsztofbaj-bot.github.io/radarkorva-info/)
+
+
+Kontakt: hahitkontakt@gmail.com
